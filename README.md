@@ -3,4 +3,5 @@
 
 可扩展性强，在exp目录下写入利用exp，在config.ini配置中写入利用exp路径即可，不用再次编译   
     效果：   
-  ![](https://github.com/cwbird/vluscan/blob/main/index1.png)
+  ![](https://github.com/cwbird/vluscan/blob/main/index1.png)   
+  ![](https://github.com/cwbird/vluscan/blob/main/xiaoguo.png) 
